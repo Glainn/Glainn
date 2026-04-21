@@ -1,15 +1,18 @@
-# Hey! I'm Glainn 🌸 ✨
+# Hey! I'm Glainn 🌸 ≽(◉˕ ◉ ≼マ
 
 <p align="center">
   <img src="https://canva.link/1v6wa74j2nw3uil" width="100%" alt="Glainn Header" />
 </p>
 
-### ☁️ Sobre mi Universo
-Soy una **Ingeniera de Sistemas** que no cree en el código sin personalidad. Mezclo el rigor técnico de la **IA y la Automatización** con la sensibilidad de la **Dirección de Arte**.
+## "Creativity is intelligence having fun."
+- Albert Einstein.
 
-- 🤖 Orquestando ecosistemas con **n8n** y Agentes de IA.
-- 🎨 Construyendo interfaces inmersivas con **Vue 3** y **GSAP**.
-- 🎬 Creadora de contenido, actriz de cosplay y editora multimedia.
+### ʚɞ Sobre mi Universo
+Soy una **Ingeniera de Sistemas** en formación que no cree en el código sin personalidad. Mezclo el rigor técnico de la **IA y la Automatización** con la sensibilidad de la **Dirección de Arte**.
+
+- 𝜗ৎ Orquestando ecosistemas con **n8n** y Agentes de IA.
+- 𝜗ৎ Construyendo interfaces inmersivas con **Vue 3** y **GSAP**.
+- 𝜗ৎ Creadora de contenido, actriz de cosplay y editora multimedia.
 
 ---
 
@@ -23,7 +26,6 @@ Soy una **Ingeniera de Sistemas** que no cree en el código sin personalidad. Me
 <img src="https://img.shields.io/badge/Matter.js_Physics-EF4444?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Pinia_State-FFD700?style=for-the-badge&logo=vitest&logoColor=black" />
 </p>
-🤖 AI Architecture & Automation
 <p align="left">
 <img src="https://img.shields.io/badge/n8n_Expert-FF6B35?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
@@ -31,7 +33,6 @@ Soy una **Ingeniera de Sistemas** que no cree en el código sin personalidad. Me
 <img src="https://img.shields.io/badge/Qdrant_VectorDB-FF4136?style=for-the-badge&logo=database&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-⚙️ Backend & Data Logic
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
