@@ -1,7 +1,7 @@
 # Hey! I'm Glainn 🌸 ✨
 
 <p align="center">
-  <img src="_" width="100%" alt="Glainn Header" />
+  <img src="https://canva.link/1v6wa74j2nw3uil" width="100%" alt="Glainn Header" />
 </p>
 
 ### ☁️ Sobre mi Universo
