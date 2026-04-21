@@ -1,7 +1,7 @@
 # Hey! I'm Glainn 🌸 ≽(◉˕ ◉ ≼マ
 
 <p align="center">
-  <img src="https://canva.link/1v6wa74j2nw3uil" width="100%" alt="Glainn Header" />
+  <img src="Banner%20Github.png" width="100%" alt="Glainn Header" />
 </p>
 
 ### "Creativity is intelligence having fun."
