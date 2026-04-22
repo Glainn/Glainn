@@ -8,11 +8,11 @@
 — Albert Einstein.
 
 ### ♡⸝⸝ About my universe
-Soy una **Ingeniera de Sistemas** en formación que no cree en el código sin personalidad. Mezclo el rigor técnico de la **IA y la Automatización** con la sensibilidad de la **Dirección de Arte**.
+I am a **Systems Engineer** in training who does not believe in code without personality. I mix the technical rigor of **AI and Automation** with the sensibility of **Art Direction**.
 
-- 𝜗ৎ Orquestando ecosistemas con **n8n** y Agentes de IA.
-- 𝜗ৎ Construyendo interfaces inmersivas con **Vue 3** y **GSAP**.
-- 𝜗ৎ Creadora de contenido, actriz de cosplay y editora multimedia.
+- 𝜗ৎ Orchestrating ecosystems with **n8n** and AI Agents.
+- 𝜗ৎ Building immersive interfaces with **Vue 3** and **GSAP**.
+- 𝜗ৎ Content creator, cosplay actress, and multimedia editor.
 
 ---
 
